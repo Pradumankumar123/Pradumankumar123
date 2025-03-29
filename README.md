@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pradumankumar123
+- 👋 Hi, I’m Praduman kumar
 - 👀 I’m interested in data analyst roll
 - 🌱 I’m currently learning MS excle,SQL,Power BI,Python
 - 💞️ I’m looking to collaborate on data analyst comapny and start-up and institute
